@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+*  RPG
+*  Puzzle
+*  Simulátory
+    *  Letecké
+    *  Námořní
+    *  Silniční
+        *  Auto
+        *  Moto
